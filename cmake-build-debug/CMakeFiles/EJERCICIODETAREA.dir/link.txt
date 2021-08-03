@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\EJERCICIODETAREA.dir/objects.a
+C:\Mingw64\mingw64\bin\ar.exe cr CMakeFiles\EJERCICIODETAREA.dir/objects.a @CMakeFiles\EJERCICIODETAREA.dir\objects1.rsp
+C:\Mingw64\mingw64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\EJERCICIODETAREA.dir/objects.a -Wl,--no-whole-archive -o EJERCICIODETAREA.exe -Wl,--out-implib,libEJERCICIODETAREA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\EJERCICIODETAREA.dir\linklibs.rsp
